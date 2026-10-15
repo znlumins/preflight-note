@@ -1,18 +1,18 @@
-# PRD — Spartan Voks Friendly
+# PRD — Preflight Note
 
 ## 1. Ringkasan
 
-**Spartan Voks Friendly** adalah versi reimplementation/cloning dari project `spartan-voks-mockup` dengan pengalaman pengguna yang lebih sederhana, jelas, dan nyaman di desktop maupun mobile.
+**Preflight Note** adalah versi reimplementation/cloning dari project `preflight-note` dengan pengalaman pengguna yang lebih sederhana, jelas, dan nyaman di desktop maupun mobile.
 
-Dokumen ini dibuat agar dapat dikerjakan oleh programmer junior atau model coding berbiaya rendah. Implementasi harus memprioritaskan alur utama, komponen sederhana, dan mock data sebelum integrasi backend nyata.
+Dokumen ini dibuat agar dapat dikerjakan oleh programmer junior atau model coding berbiaya rendah. Implementasi harus memprioritaskan alur utama, komponen sederhana, dan mock data sebelum integrasi lanjutan.
 
 ## 2. Asumsi
 
-- Repository saat ini bernama `spartan-voks-mockup`.
+- Repository saat ini bernama `preflight-note`.
 - Informasi produk dan struktur fitur yang lengkap belum tersedia di repository saat dokumen ini dibuat.
 - Karena itu, dokumen ini mendefinisikan baseline MVP yang aman: halaman beranda, daftar konten, detail konten, pencarian/filter sederhana, dan feedback UI.
 - Detail domain, API, autentikasi, serta sumber data asli harus dikonfirmasi sebelum implementasi lanjutan.
-- Nama repository baru yang diusulkan: `spartan-voks-friendly`.
+- Nama repository baru yang diusulkan: `preflight-note`.
 
 ## 3. Tujuan
 
@@ -242,12 +242,12 @@ Aturan:
 
 ## 14. Risiko dan Pertanyaan Terbuka
 
-- Apa domain dan tujuan asli project Voks?
+- Apa domain dan tujuan asli project Preflight Note?
 - Fitur mockup mana yang wajib dipertahankan?
 - Apakah ada API atau sumber data resmi?
 - Apakah pengguna membutuhkan login?
-- Apakah nama `Spartan Voks Friendly` sudah disetujui?
-- Apakah repository boleh diganti nama menjadi `spartan-voks-friendly`?
+- Apakah nama `Preflight Note` sudah disetujui?
+- Apakah repository boleh diganti nama menjadi `preflight-note`?
 - Aset, logo, dan konten mana yang boleh digunakan?
 
 Jika jawaban belum tersedia, lanjutkan hanya dengan scope P0 dan tandai keputusan sebagai asumsi.

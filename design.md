@@ -1,8 +1,8 @@
-# Design Guide — Spartan Voks Friendly
+# Design Guide — Preflight Note
 
 ## 1. Tujuan Design
 
-Design Spartan Voks Friendly harus terasa sederhana, membantu, dan tidak mengintimidasi pengguna baru. Prioritasnya adalah:
+Design Preflight Note harus terasa sederhana, membantu, dan tidak mengintimidasi pengguna baru. Prioritasnya adalah:
 
 1. Pengguna selalu tahu sedang berada di halaman apa.
 2. Aksi utama mudah ditemukan.
